@@ -1,0 +1,15 @@
+# DirEnv
+.envrc
+
+# IntelliJ
+*.iml
+.idea/
+
+# Mac
+.DS_Store
+
+# Maven
+target/
+
+# sdkman
+.sdkmanrc
