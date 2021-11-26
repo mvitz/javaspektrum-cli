@@ -3,7 +3,8 @@
 **Java CLI Examples**
 
 These examples were written for my german [JavaSPEKTRUM](http://www.javaspektrum.de/)
-article "Der Praktiker: TODO".
+article "Der Praktiker: Bibliotheken für Kommandozeilenanwendungen - Argumente
+und Optionen in Java verarbeiten".
 
 
 ## License
