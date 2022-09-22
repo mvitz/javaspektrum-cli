@@ -11,7 +11,7 @@ You can read it online
 or download as PDF
 [here](http://www.sigs.de/publications/download/Artikel/vitz_JS_06_21_mker.pdf).
 
-This artcile was translated into english as "Libraries for command-line
+This article was translated into english as "Libraries for command-line
 applications - Processing arguments and options in Java" and can be read
 [here](https://www.innoq.com/en/articles/2022/01/java-cli-libraries/).
 
